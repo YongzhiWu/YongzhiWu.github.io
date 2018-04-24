@@ -79,13 +79,22 @@
 
 
 
-<meta property="og:type" content="website">
-<meta property="og:title" content="知中有乐的博客">
-<meta property="og:url" content="http://yoursite.com/index.html">
+<meta name="description" content="一、环境搭建在coding之前，我们先把环境搭好，包括数据库的安装配置以及thinkjs的安装配置。 1、数据库安装 本项目使用关系型数据库MySQL，电脑上没有安装上MySQL的同学可以自行上官网下载安装，有关MySQL的知识可以上菜鸟教程和慕课网学习，这里不多说。 2、ThinkJS安装 这里我们使用ThinkJS 2.2版本，所以以下步骤都是针对2.2版本，想使用3.0版本的同学可以自行尝试">
+<meta property="og:type" content="article">
+<meta property="og:title" content="使用ThinkJS框架完成一个todolist小项目">
+<meta property="og:url" content="http://yoursite.com/2018/04/24/thinkjs-todolist/index.html">
 <meta property="og:site_name" content="知中有乐的博客">
+<meta property="og:description" content="一、环境搭建在coding之前，我们先把环境搭好，包括数据库的安装配置以及thinkjs的安装配置。 1、数据库安装 本项目使用关系型数据库MySQL，电脑上没有安装上MySQL的同学可以自行上官网下载安装，有关MySQL的知识可以上菜鸟教程和慕课网学习，这里不多说。 2、ThinkJS安装 这里我们使用ThinkJS 2.2版本，所以以下步骤都是针对2.2版本，想使用3.0版本的同学可以自行尝试">
 <meta property="og:locale" content="zh-Hans">
+<meta property="og:image" content="https://images2018.cnblogs.com/blog/1256501/201804/1256501-20180401194803295-57606081.png">
+<meta property="og:image" content="https://images2018.cnblogs.com/blog/1256501/201804/1256501-20180401195010402-1336928919.png">
+<meta property="og:image" content="https://images2018.cnblogs.com/blog/1256501/201804/1256501-20180401195127365-43310836.png">
+<meta property="og:image" content="https://images2018.cnblogs.com/blog/1256501/201804/1256501-20180401195155666-544957358.png">
+<meta property="og:updated_time" content="2018-04-24T13:17:14.799Z">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="知中有乐的博客">
+<meta name="twitter:title" content="使用ThinkJS框架完成一个todolist小项目">
+<meta name="twitter:description" content="一、环境搭建在coding之前，我们先把环境搭好，包括数据库的安装配置以及thinkjs的安装配置。 1、数据库安装 本项目使用关系型数据库MySQL，电脑上没有安装上MySQL的同学可以自行上官网下载安装，有关MySQL的知识可以上菜鸟教程和慕课网学习，这里不多说。 2、ThinkJS安装 这里我们使用ThinkJS 2.2版本，所以以下步骤都是针对2.2版本，想使用3.0版本的同学可以自行尝试">
+<meta name="twitter:image" content="https://images2018.cnblogs.com/blog/1256501/201804/1256501-20180401194803295-57606081.png">
 
 
 
@@ -115,13 +124,13 @@
 
 
 
-  <link rel="canonical" href="http://yoursite.com/"/>
+  <link rel="canonical" href="http://yoursite.com/2018/04/24/thinkjs-todolist/"/>
 
 
 
 
 
-  <title>知中有乐的博客</title>
+  <title>使用ThinkJS框架完成一个todolist小项目 | 知中有乐的博客</title>
   
 
 
@@ -140,8 +149,7 @@
     
   
 
-  <div class="container sidebar-position-left 
-  page-home">
+  <div class="container sidebar-position-left page-post-detail">
     <div class="headband"></div>
 
     <header id="header" class="header" itemscope itemtype="http://schema.org/WPHeader">
@@ -214,9 +222,9 @@
         <div class="content-wrap">
           <div id="content" class="content">
             
-  <section id="posts" class="posts-expand">
+
+  <div id="posts" class="posts-expand">
     
-      
 
   
 
@@ -246,9 +254,7 @@
 
         
         
-          <h1 class="post-title" itemprop="name headline">
-                
-                <a class="post-title-link" href="/2018/04/24/thinkjs-todolist/" itemprop="url">使用ThinkJS框架完成一个todolist小项目</a></h1>
+          <h1 class="post-title" itemprop="name headline">使用ThinkJS框架完成一个todolist小项目</h1>
         
 
         <div class="post-meta">
@@ -298,9 +304,7 @@
       
 
       
-        
-          
-            <h2 id="一、环境搭建"><a href="#一、环境搭建" class="headerlink" title="一、环境搭建"></a>一、环境搭建</h2><p>在coding之前，我们先把环境搭好，包括数据库的安装配置以及thinkjs的安装配置。</p>
+        <h2 id="一、环境搭建"><a href="#一、环境搭建" class="headerlink" title="一、环境搭建"></a>一、环境搭建</h2><p>在coding之前，我们先把环境搭好，包括数据库的安装配置以及thinkjs的安装配置。</p>
 <p>1、数据库安装</p>
 <p>本项目使用关系型数据库MySQL，电脑上没有安装上MySQL的同学可以自行上官网下载安装，有关MySQL的知识可以上<a href="http://www.runoob.com/mysql/mysql-tutorial.html" target="_blank" rel="noopener">菜鸟教程</a>和<a href="https://www.imooc.com/learn/122" target="_blank" rel="noopener">慕课网</a>学习，这里不多说。</p>
 <p>2、ThinkJS安装</p>
@@ -341,8 +345,6 @@
 <p>这里只实现了add方法，其他方法请自行实现。</p>
 <h2 id="七、拓展功能"><a href="#七、拓展功能" class="headerlink" title="七、拓展功能"></a>七、拓展功能</h2><p>除了上述功能外，可以按照自己的想法实现一些新功能，比如正在进行的列表项可以拖拽改变它们的顺序。</p>
 
-          
-        
       
     </div>
     
@@ -359,12 +361,12 @@
       
 
       
+      
+      
 
       
 
       
-      
-        <div class="post-eof"></div>
       
     </footer>
   </div>
@@ -374,10 +376,11 @@
   </article>
 
 
-    
-  </section>
 
-  
+    <div class="post-spread">
+      
+    </div>
+  </div>
 
 
           </div>
@@ -385,6 +388,10 @@
 
 
           
+
+  
+
+
 
         </div>
         
@@ -405,8 +412,17 @@
       
 
       
+        <ul class="sidebar-nav motion-element">
+          <li class="sidebar-nav-toc sidebar-nav-active" data-target="post-toc-wrap">
+            文章目录
+          </li>
+          <li class="sidebar-nav-overview" data-target="site-overview-wrap">
+            站点概览
+          </li>
+        </ul>
+      
 
-      <section class="site-overview-wrap sidebar-panel sidebar-panel-active">
+      <section class="site-overview-wrap sidebar-panel">
         <div class="site-overview">
           <div class="site-author motion-element" itemprop="author" itemscope itemtype="http://schema.org/Person">
             
@@ -448,6 +464,22 @@
         </div>
       </section>
 
+      
+      <!--noindex-->
+        <section class="post-toc-wrap motion-element sidebar-panel sidebar-panel-active">
+          <div class="post-toc">
+
+            
+              
+            
+
+            
+              <div class="post-toc-content"><ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#一、环境搭建"><span class="nav-number">1.</span> <span class="nav-text">一、环境搭建</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#二、项目配置"><span class="nav-number">2.</span> <span class="nav-text">二、项目配置</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#三、数据表创建"><span class="nav-number">3.</span> <span class="nav-text">三、数据表创建</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#四、后端接口设计"><span class="nav-number">4.</span> <span class="nav-text">四、后端接口设计</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#五、前端结构设计"><span class="nav-number">5.</span> <span class="nav-text">五、前端结构设计</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#六、前端JavaScript方法设计"><span class="nav-number">6.</span> <span class="nav-text">六、前端JavaScript方法设计</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#七、拓展功能"><span class="nav-number">7.</span> <span class="nav-text">七、拓展功能</span></a></li></ol></div>
+            
+
+          </div>
+        </section>
+      <!--/noindex-->
       
 
       
@@ -581,6 +613,10 @@
   
 
   
+  <script type="text/javascript" src="/js/src/scrollspy.js?v=5.1.4"></script>
+<script type="text/javascript" src="/js/src/post-details.js?v=5.1.4"></script>
+
+
 
   
 
