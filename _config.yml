@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Yongzhi Wu"
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   bio              : "Research interests: integrated sensing and communication, mmWave and THz communications, stochastic geometry analysis in wireless networks"
-  location         : "Shanghai"
+  location         : "Shanghai, China"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=Va_CN8QAAAAJ&hl=zh-CN"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Yongzhi Wu"
+  github           : "YongzhiWu"
   google_plus      :
   keybase          :
   instagram        :
