@@ -12,7 +12,7 @@ About me
 ======
 I am a PhD candidate at the University of Michigan-Shanghai Jiao Tong University (UM-SJTU) Joint Institute of Shanghai Jiao Tong University ([SJTU](https://www.sjtu.edu.cn/)). I am fortunate to be advised by [Prof. Chong Han](https://sites.ji.sjtu.edu.cn/chonghan/).
 
-I received my B.S. degree in Electronic Infromation Engineering from Huazhong University of Science and Technology ([HUST](https://www.hust.edu.cn/)) in 2019.
+I received my B.S. degree in Electronic Infromation Engineering from Huazhong University of Science and Technology ([HUST](https://www.hust.edu.cn/)), Wuhan, China, in 2019.
 
 Research
 ======
