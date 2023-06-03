@@ -14,6 +14,14 @@ author_profile: true
 - **Y. Wu**, J. Kokkoniemi, C. Han, and M. Juntti, "Interference and Coverage Analysis for Terahertz Networks with Indoor Blockage Effects and Line-of-Sight Access Point Association", *IEEE Transactions on Wireless Communications*, vol. 20, no. 3, pp. 1472-1486, Mar. 2021. [[*paper*](https://ieeexplore.ieee.org/document/9247469)]
 
 ## Conference Publications
+- Z.-R. Yang, **Y. Wu**, and C. Han, "Simultaneous Wireless Information and Power Transfer in Terahertz Ultra-Massive MIMO Systems", in *Proc. of IEEE International Conference on Communications (ICC)*, Rome, Italy, May 2023
+- **Y. Wu**, C. Han, and Z. Chen, "An Energy-Efficient DFT-Spread Orthogonal Time Frequency Space System for Terahertz Integrated Sensing and Communication", in *Proc. of IEEE International Conference on Communications (ICC)*, Seoul, South Korea, May 2022
+- **Y. Wu**, C. Han, and T. Yang, "DFT-Spread Orthogonal Time Frequency Space Modulation Design for Terahertz Communications", in *Proc. of IEEE Global Communications Conference (GLOBECOM)*, Madrid, Spain, December 2021
+- **Y. Wu**, C. Han, and Z. Chen, "THz ISCI: Terahertz Integrated Sensing, Communication and Intelligence", in *International Conference on Infrared, Millimeter, and Terahertz Waves (IRMMW-THz)*, Chengdu, China, August 2021
+- **Y. Wu**, F. Lemic, C. Han, and Z. Chen, "A Non-Uniform Multi-Wideband OFDM System for Terahertz Joint Communication and Sensing", in *Proc. of IEEE Vehicular Technology Conference (VTC)*, Helsinki, Finland, April, 2021
+- **Y. Wu**, F. Lemic, C. Han, and Z. Chen, "A Sensing Integrated DFT-Spread OFDM System for Terahertz Communications", in *Proc. of IEEE Vehicular Technology Conference (VTC)*, Helsinki, Finland, April, 2021
+- S. Fan, **Y. Wu**, C. Han, and X. Wang, "A Structured Bidirectional LSTM Deep Learning Method For 3D Terahertz Indoor Localization", in *Proc. of IEEE International Conference on Computer Communications (INFOCOM)*, April 2020
+- **Y. Wu**, and C. Han, "Interference and Coverage Analysis for Indoor Terahertz Wireless Local Area Networks", in *Proc. of IEEE GLOBECOM Workshop on Terahertz Communications*, Waikoloa, US, December 2019
 
 
 <!-- {% if author.googlescholar %}

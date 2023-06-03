@@ -58,7 +58,7 @@ def html_escape(text):
 
 # ## Creating the markdown files
 # 
-# This is where the heavy lifting is done. This loops through all the rows in the TSV dataframe, then starts to concatentate a big string (```md```) that contains the markdown for each type. It does the YAML metadata first, then does the description for the individual page.
+# This is where the heavy lifting is done. This loops through all the rows in the TSV dataframe, then starts to concatentate a big string ("`md"`) that contains the markdown for each type. It does the YAML metadata first, then does the description for the individual page.
 
 # In[5]:
 
