@@ -45,6 +45,8 @@ Publications
 - **Y. Wu**, F. Lemic, C. Han, and Z. Chen, "A Sensing Integrated DFT-Spread OFDM System for Terahertz Communications", in *Proc. of IEEE Vehicular Technology Conference (VTC)*, Helsinki, Finland, April, 2021.
 - S. Fan, **Y. Wu**, C. Han, and X. Wang, "A Structured Bidirectional LSTM Deep Learning Method For 3D Terahertz Indoor Localization", in *Proc. of IEEE International Conference on Computer Communications (INFOCOM)*, April 2020
 - **Y. Wu**, and C. Han, "Interference and Coverage Analysis for Indoor Terahertz Wireless Local Area Networks", in *Proc. of IEEE GLOBECOM Workshop on Terahertz Communications*, Waikoloa, US, December 2019.
+
+## Book Chapters
   
 <!-- Talks
 ======
