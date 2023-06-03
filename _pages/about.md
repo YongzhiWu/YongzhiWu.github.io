@@ -20,7 +20,7 @@ My research interests include:
 - Integrated sensing and communication
 - MmWave and THz communications
 - Waveform and modulation design
-- stochastic geometry analysis in wireless networks
+- Stochastic geometry analysis in wireless networks
 
 Contact
 ======
