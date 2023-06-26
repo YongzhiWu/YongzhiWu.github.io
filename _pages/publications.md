@@ -14,6 +14,7 @@ author_profile: true
 - **Y. Wu**, J. Kokkoniemi, C. Han, and M. Juntti, "Interference and Coverage Analysis for Terahertz Networks with Indoor Blockage Effects and Line-of-Sight Access Point Association", *IEEE Transactions on Wireless Communications*, vol. 20, no. 3, pp. 1472-1486, Mar. 2021. [[*paper*](https://ieeexplore.ieee.org/document/9247469)]
 
 ## Conference Publications
+- **Y. Wu**, and C. Han, "Time-Frequency-Space Signal Design with Dynamic Subarray for Terahertz Integrated Sensing and Communication", *IEEE International Workshop on Signal Processing Advances in Wireless Communications (SPAWC)*, Shanghai, China, Sept. 2023
 - Z.-R. Yang, **Y. Wu**, and C. Han, "Simultaneous Wireless Information and Power Transfer in Terahertz Ultra-Massive MIMO Systems", in *Proc. of IEEE International Conference on Communications (ICC)*, Rome, Italy, May 2023.
 - **Y. Wu**, C. Han, and Z. Chen, "An Energy-Efficient DFT-Spread Orthogonal Time Frequency Space System for Terahertz Integrated Sensing and Communication", in *Proc. of IEEE International Conference on Communications (ICC)*, Seoul, South Korea, May 2022.
 - **Y. Wu**, C. Han, and T. Yang, "DFT-Spread Orthogonal Time Frequency Space Modulation Design for Terahertz Communications", in *Proc. of IEEE Global Communications Conference (GLOBECOM)*, Madrid, Spain, December 2021.
