@@ -13,6 +13,9 @@ author_profile: true
 - S. Fan, **Y. Wu** (*co-first author*), C. Han, and X. Wang, "SIABR: A Structured Intra-Attention Bidirectional Recurrent Deep Learning Method for Ultra-Accurate Terahertz Indoor Localization", *IEEE Journal on Selected Areas in Communications (JSAC)*, vol. 39, no. 7, pp. 2226-2240, Jul. 2021. [[*paper*](https://ieeexplore.ieee.org/document/9427239/)]
 - **Y. Wu**, J. Kokkoniemi, C. Han, and M. Juntti, "Interference and Coverage Analysis for Terahertz Networks with Indoor Blockage Effects and Line-of-Sight Access Point Association", *IEEE Transactions on Wireless Communications*, vol. 20, no. 3, pp. 1472-1486, Mar. 2021. [[*paper*](https://ieeexplore.ieee.org/document/9247469)]
 
+## Preprint
+- **Y. Wu**, and C. Han, “Time-Frequency-Space Transmit Design and Signal Processing with Dynamic Subarray for Terahertz Integrated Sensing and Communication”, *arXiv preprint: 2307.04440*, Jul. 2023. [[*paper*](https://arxiv.org/abs/2307.04440)]
+
 ## Conference Publications
 - **Y. Wu**, and C. Han, "Time-Frequency-Space Signal Design with Dynamic Subarray for Terahertz Integrated Sensing and Communication", *IEEE International Workshop on Signal Processing Advances in Wireless Communications (SPAWC)*, Shanghai, China, Sept. 2023
 - Z.-R. Yang, **Y. Wu**, and C. Han, "Simultaneous Wireless Information and Power Transfer in Terahertz Ultra-Massive MIMO Systems", in *Proc. of IEEE International Conference on Communications (ICC)*, Rome, Italy, May 2023.
