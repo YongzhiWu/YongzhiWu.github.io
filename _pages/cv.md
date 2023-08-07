@@ -39,7 +39,11 @@ Publications
 - S. Fan, **Y. Wu** (*co-first author*), C. Han, and X. Wang, "SIABR: A Structured Intra-Attention Bidirectional Recurrent Deep Learning Method for Ultra-Accurate Terahertz Indoor Localization", *IEEE Journal on Selected Areas in Communications (JSAC)*, vol. 39, no. 7, pp. 2226-2240, Jul. 2021. [[*paper*](https://ieeexplore.ieee.org/document/9427239/)]
 - **Y. Wu**, J. Kokkoniemi, C. Han, and M. Juntti, "Interference and Coverage Analysis for Terahertz Networks with Indoor Blockage Effects and Line-of-Sight Access Point Association", *IEEE Transactions on Wireless Communications*, vol. 20, no. 3, pp. 1472-1486, Mar. 2021. [[*paper*](https://ieeexplore.ieee.org/document/9247469)]
 
+## Preprint
+- **Y. Wu**, and C. Han, "Time-Frequency-Space Transmit Design and Signal Processing with Dynamic Subarray for Terahertz Integrated Sensing and Communication", *arXiv preprint: 2307.04440*, Jul. 2023. [[*arXiv*](https://arxiv.org/pdf/2307.04440.pdf)]
+
 ## Conference Publications
+- **Y. Wu**, and C. Han, "Time-Frequency-Space Signal Design with Dynamic Subarray for Terahertz Integrated Sensing and Communication", in *Proc. of IEEE International Workshop on Signal Processing Advances in Wireless Communications (SPAWC)*, Shanghai, China, Sept. 2023.
 - Z.-R. Yang, **Y. Wu**, and C. Han, "Simultaneous Wireless Information and Power Transfer in Terahertz Ultra-Massive MIMO Systems", in *Proc. of IEEE International Conference on Communications (ICC)*, Rome, Italy, May 2023.
 - **Y. Wu**, C. Han, and Z. Chen, "An Energy-Efficient DFT-Spread Orthogonal Time Frequency Space System for Terahertz Integrated Sensing and Communication", in *Proc. of IEEE International Conference on Communications (ICC)*, Seoul, South Korea, May 2022.
 - **Y. Wu**, C. Han, and T. Yang, "DFT-Spread Orthogonal Time Frequency Space Modulation Design for Terahertz Communications", in *Proc. of IEEE Global Communications Conference (GLOBECOM)*, Madrid, Spain, December 2021.
@@ -66,8 +70,14 @@ Publications
 Academic Service and Activities
 ======
 * Reviewer
+  * IEEE Wireless Communications Magazine
+  * IEEE Network Magazine
+  * IEEE Communications Standards Magazine
   * IEEE Transactions on Wireless Communications
+  * IEEE Transactions on Vehicular Technology
   * IEEE Journal of Selected Topics in Signal Processing
+  * IEEE Transactions on Vehicular Technology
+  * IEEE Wireless Communications Letters
   * IEEE Communications Letters
 * Presentations
   * ICC 2022, GLOBECOM 2021, VTC-Spring 2021
