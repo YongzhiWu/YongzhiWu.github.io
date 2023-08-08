@@ -74,7 +74,7 @@ Academic Service and Activities
   * IEEE Network Magazine
   * IEEE Communications Standards Magazine
   * IEEE Transactions on Wireless Communications
-  * IEEE Transactions on Vehicular Technology
+  * IEEE Transactions on Communications
   * IEEE Journal of Selected Topics in Signal Processing
   * IEEE Transactions on Vehicular Technology
   * IEEE Wireless Communications Letters
