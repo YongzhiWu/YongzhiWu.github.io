@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Journal Publications
-- **Y. Wu**, C. Han, and Z. Chen, "DFT-Spread Orthogonal Time Frequency Space System with Superimposed Pilots for Terahertz Integrated Sensing and Communication", *IEEE Transactions on Wireless Communications*, to appear, 2023. [[*paper*](https://ieeexplore.ieee.org/document/10061469)]
+- **Y. Wu**, C. Han, and Z. Chen, "DFT-Spread Orthogonal Time Frequency Space System with Superimposed Pilots for Terahertz Integrated Sensing and Communication", *IEEE Transactions on Wireless Communications*, vol. 22, no. 11, pp. 7361-7376, Nov. 2023. [[*paper*](https://ieeexplore.ieee.org/document/10061469)]
 - C. Han, **Y. Wu**\*, Z. Chen, Y. Chen, and G. Wang, "THz ISAC: A Physical-Layer Perspective of Terahertz Integrated Sensing and Communication", *IEEE Communications Magazine*, to appear, 2023. [[*arXiv*](https://arxiv.org/pdf/2209.03145.pdf)] (\* indicates corresponding author)
 - **Y. Wu**, F. Lemic, C. Han, and Z. Chen, "Sensing Integrated DFT-Spread OFDM Waveform and Deep Learning-powered Receiver Design for Terahertz Integrated Sensing and Communication Systems", *IEEE Transactions on Communications*, vol. 71, no. 1, pp. 595-610, Jan. 2023. [[*paper*](https://ieeexplore.ieee.org/document/9967989)]
 - Z. Chen, C. Han, **Y. Wu**, L. Li, C. Huang, Z. Zhang, G. Wang, and W. Tong, "Terahertz Wireless Communications for 2030 and Beyond: A Cutting-Edge Frontier", *IEEE Communications Magazine*, vol. 59, no. 11, pp. 66-72, Nov. 2021. [[*paper*](https://ieeexplore.ieee.org/document/9665432)]
@@ -26,6 +26,9 @@ author_profile: true
 - **Y. Wu**, F. Lemic, C. Han, and Z. Chen, "A Sensing Integrated DFT-Spread OFDM System for Terahertz Communications", in *Proc. of IEEE Vehicular Technology Conference (VTC)*, Helsinki, Finland, April, 2021.
 - S. Fan, **Y. Wu**, C. Han, and X. Wang, "A Structured Bidirectional LSTM Deep Learning Method For 3D Terahertz Indoor Localization", in *Proc. of IEEE International Conference on Computer Communications (INFOCOM)*, April 2020
 - **Y. Wu**, and C. Han, "Interference and Coverage Analysis for Indoor Terahertz Wireless Local Area Networks", in *Proc. of IEEE GLOBECOM Workshop on Terahertz Communications*, Waikoloa, US, December 2019.
+
+## Book Chapters
+- **Y. Wu**, and C. Han, “Waveform and Modulation Design of Terahertz Communications“, Fundamentals of 6G Communications and Networking, Springer, Cham, 2024. [https://doi.org/10.1007/978-3-031-37920-8_7](https://doi.org/10.1007/978-3-031-37920-8_7)
 
 
 <!-- {% if author.googlescholar %}
