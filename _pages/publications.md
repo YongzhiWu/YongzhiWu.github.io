@@ -17,6 +17,7 @@ author_profile: true
 - **Y. Wu**, and C. Han, "Time-Frequency-Space Transmit Design and Signal Processing with Dynamic Subarray for Terahertz Integrated Sensing and Communication", *arXiv preprint: 2307.04440*, Jul. 2023. [[*arXiv*](https://arxiv.org/pdf/2307.04440.pdf)]
 
 ## Conference Publications
+- **Y. Wu**, and C. Han, "Coverage and Capacity Analysis for Terahertz Integrated Sensing and Communication Networks", in *Proc. of IEEE International Conference on Communications (ICC)*, Denver, US, June 2024.
 - **Y. Wu**, and C. Han, "Time-Frequency-Space Signal Design with Dynamic Subarray for Terahertz Integrated Sensing and Communication", in *Proc. of IEEE International Workshop on Signal Processing Advances in Wireless Communications (SPAWC)*, Shanghai, China, Sept. 2023.
 - Z.-R. Yang, **Y. Wu**, and C. Han, "Simultaneous Wireless Information and Power Transfer in Terahertz Ultra-Massive MIMO Systems", in *Proc. of IEEE International Conference on Communications (ICC)*, Rome, Italy, May 2023.
 - **Y. Wu**, C. Han, and Z. Chen, "An Energy-Efficient DFT-Spread Orthogonal Time Frequency Space System for Terahertz Integrated Sensing and Communication", in *Proc. of IEEE International Conference on Communications (ICC)*, Seoul, South Korea, May 2022.
@@ -31,11 +32,11 @@ author_profile: true
 - **Y. Wu**, and C. Han, “Waveform and Modulation Design of Terahertz Communications“, Fundamentals of 6G Communications and Networking, Springer, Cham, 2024. [https://doi.org/10.1007/978-3-031-37920-8_7](https://doi.org/10.1007/978-3-031-37920-8_7)
 
 
-<!-- {% if author.googlescholar %}
+{% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-{% include base_path %}
+<!-- {% include base_path %}
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}

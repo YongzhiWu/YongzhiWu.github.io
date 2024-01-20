@@ -9,10 +9,29 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+## Education
 ======
 * B.S. in Electronic Information Engineering, Huazhong University of Science and Technology, 2015-2019
 * Ph.D in Information and Communication Engineering, Shanghai Jiao Tong University, 2019-2024(expected)
+
+## Selected Honors & Awards
+* National Scholarship for PhD Students, 2023
+* National Scholarship for Undergraduate Students, 2016
+
+## Academic Service and Activities
+======
+* Reviewer
+  * IEEE Wireless Communications Magazine
+  * IEEE Network Magazine
+  * IEEE Communications Standards Magazine
+  * IEEE Transactions on Wireless Communications
+  * IEEE Transactions on Communications
+  * IEEE Journal of Selected Topics in Signal Processing
+  * IEEE Transactions on Vehicular Technology
+  * IEEE Wireless Communications Letters
+  * IEEE Communications Letters
+* Presentations
+  * ICC 2022, GLOBECOM 2021, VTC-Spring 2021
   
 <!-- Skills
 ======
@@ -29,7 +48,7 @@ Education
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
 
-Publications
+<!-- Publications
 ======
 ## Journal Publications
 - **Y. Wu**, C. Han, and Z. Chen, "DFT-Spread Orthogonal Time Frequency Space System with Superimposed Pilots for Terahertz Integrated Sensing and Communication", *IEEE Transactions on Wireless Communications*, vol. 22, no. 11, pp. 7361-7376, Nov. 2023. [[*paper*](https://ieeexplore.ieee.org/document/10061469)]
@@ -54,7 +73,7 @@ Publications
 - **Y. Wu**, and C. Han, "Interference and Coverage Analysis for Indoor Terahertz Wireless Local Area Networks", in *Proc. of IEEE GLOBECOM Workshop on Terahertz Communications*, Waikoloa, US, December 2019.
 
 ## Book Chapters
-- **Y. Wu**, and C. Han, “Waveform and Modulation Design of Terahertz Communications“, Fundamentals of 6G Communications and Networking, Springer, Cham, 2024. [https://doi.org/10.1007/978-3-031-37920-8_7](https://doi.org/10.1007/978-3-031-37920-8_7)
+- **Y. Wu**, and C. Han, “Waveform and Modulation Design of Terahertz Communications“, Fundamentals of 6G Communications and Networking, Springer, Cham, 2024. [https://doi.org/10.1007/978-3-031-37920-8_7](https://doi.org/10.1007/978-3-031-37920-8_7) -->
 
 
   
@@ -69,18 +88,4 @@ Publications
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
-  
-Academic Service and Activities
-======
-* Reviewer
-  * IEEE Wireless Communications Magazine
-  * IEEE Network Magazine
-  * IEEE Communications Standards Magazine
-  * IEEE Transactions on Wireless Communications
-  * IEEE Transactions on Communications
-  * IEEE Journal of Selected Topics in Signal Processing
-  * IEEE Transactions on Vehicular Technology
-  * IEEE Wireless Communications Letters
-  * IEEE Communications Letters
-* Presentations
-  * ICC 2022, GLOBECOM 2021, VTC-Spring 2021
+
