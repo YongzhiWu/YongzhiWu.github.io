@@ -9,13 +9,11 @@ redirect_from:
 ---
 
 ## About me
-======
 I am a PhD candidate at the University of Michigan-Shanghai Jiao Tong University (UM-SJTU) Joint Institute of Shanghai Jiao Tong University ([SJTU](https://www.sjtu.edu.cn/)). I am fortunate to be advised by [Prof. Chong Han](https://sites.ji.sjtu.edu.cn/chonghan/).
 
 I received my B.S. degree in Electronic Infromation Engineering from Huazhong University of Science and Technology ([HUST](https://www.hust.edu.cn/)), Wuhan, China, in 2019.
 
 ## Research
-======
 My primary research interests are investigating cutting-edge frontiers to realize the blueprint of the sixth generation (6G) wireless systems, spanning topics including:
 - Integrated sensing and communication
 - MmWave and THz communications
@@ -23,7 +21,6 @@ My primary research interests are investigating cutting-edge frontiers to realiz
 - Stochastic geometry analysis in wireless networks
 
 ## Contact
-======
 Yongzhi Wu\
 Longbin Building\
 Shanghai Jiao Tong University\
