@@ -10,7 +10,6 @@ redirect_from:
 {% include base_path %}
 
 ## Education
-======
 * B.S. in Electronic Information Engineering, Huazhong University of Science and Technology, 2015-2019
 * Ph.D in Information and Communication Engineering, Shanghai Jiao Tong University, 2019-2024(expected)
 
@@ -19,7 +18,6 @@ redirect_from:
 * National Scholarship for Undergraduate Students, 2016
 
 ## Academic Service and Activities
-======
 * Reviewer
   * IEEE Wireless Communications Magazine
   * IEEE Network Magazine
