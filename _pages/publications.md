@@ -14,7 +14,7 @@ author_profile: true
 - **Y. Wu**, J. Kokkoniemi, C. Han, and M. Juntti, "Interference and Coverage Analysis for Terahertz Networks with Indoor Blockage Effects and Line-of-Sight Access Point Association", *IEEE Transactions on Wireless Communications*, vol. 20, no. 3, pp. 1472-1486, Mar. 2021. [[*paper*](https://ieeexplore.ieee.org/document/9247469)]
 
 ## Preprint
-- **Y. Wu**, and C. Han, "Time-Frequency-Space Transmit Design and Signal Processing with Dynamic Subarray for Terahertz Integrated Sensing and Communication", *arXiv preprint: 2307.04440*, Jul. 2023. [[*arXiv*](https://arxiv.org/pdf/2307.04440.pdf)]
+- **Y. Wu**, C. Han, and M. Tao, "Time-Frequency-Space Transmit Design and Signal Processing with Dynamic Subarray for Terahertz Integrated Sensing and Communication", *arXiv preprint: 2307.04440*, Mar. 2024. [[*arXiv*](https://arxiv.org/pdf/2307.04440.pdf)]
 
 ## Conference Publications
 - **Y. Wu**, and C. Han, "Time-Frequency-Space Signal Design with Dynamic Subarray for Terahertz Integrated Sensing and Communication", in *Proc. of IEEE International Workshop on Signal Processing Advances in Wireless Communications (SPAWC)*, Shanghai, China, Sept. 2023.
