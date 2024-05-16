@@ -9,10 +9,27 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+## Education
 * B.S. in Electronic Information Engineering, Huazhong University of Science and Technology, 2015-2019
 * Ph.D in Information and Communication Engineering, Shanghai Jiao Tong University, 2019-2024(expected)
+
+## Selected Honors & Awards
+* National Scholarship for PhD Students, 2023
+* National Scholarship for Undergraduate Students, 2016
+
+## Academic Service and Activities
+* Reviewer
+  * IEEE Wireless Communications Magazine
+  * IEEE Network Magazine
+  * IEEE Communications Standards Magazine
+  * IEEE Transactions on Wireless Communications
+  * IEEE Transactions on Communications
+  * IEEE Journal of Selected Topics in Signal Processing
+  * IEEE Transactions on Vehicular Technology
+  * IEEE Wireless Communications Letters
+  * IEEE Communications Letters
+* Presentations
+  * ICC 2022, GLOBECOM 2021, VTC-Spring 2021
   
 <!-- Skills
 ======
@@ -29,10 +46,10 @@ Education
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
 
-Publications
+<!-- Publications
 ======
 ## Journal Publications
-- **Y. Wu**, C. Han, and Z. Chen, "DFT-Spread Orthogonal Time Frequency Space System with Superimposed Pilots for Terahertz Integrated Sensing and Communication", *IEEE Transactions on Wireless Communications*, to appear, 2023. [[*paper*](https://ieeexplore.ieee.org/document/10061469)]
+- **Y. Wu**, C. Han, and Z. Chen, "DFT-Spread Orthogonal Time Frequency Space System with Superimposed Pilots for Terahertz Integrated Sensing and Communication", *IEEE Transactions on Wireless Communications*, vol. 22, no. 11, pp. 7361-7376, Nov. 2023. [[*paper*](https://ieeexplore.ieee.org/document/10061469)]
 - C. Han, **Y. Wu**\*, Z. Chen, Y. Chen, and G. Wang, "THz ISAC: A Physical-Layer Perspective of Terahertz Integrated Sensing and Communication", *IEEE Communications Magazine*, to appear, 2023. [[*arXiv*](https://arxiv.org/pdf/2209.03145.pdf)] (\* indicates corresponding author)
 - **Y. Wu**, F. Lemic, C. Han, and Z. Chen, "Sensing Integrated DFT-Spread OFDM Waveform and Deep Learning-powered Receiver Design for Terahertz Integrated Sensing and Communication Systems", *IEEE Transactions on Communications*, vol. 71, no. 1, pp. 595-610, Jan. 2023. [[*paper*](https://ieeexplore.ieee.org/document/9967989)]
 - Z. Chen, C. Han, **Y. Wu**, L. Li, C. Huang, Z. Zhang, G. Wang, and W. Tong, "Terahertz Wireless Communications for 2030 and Beyond: A Cutting-Edge Frontier", *IEEE Communications Magazine*, vol. 59, no. 11, pp. 66-72, Nov. 2021. [[*paper*](https://ieeexplore.ieee.org/document/9665432)]
@@ -54,6 +71,9 @@ Publications
 - **Y. Wu**, and C. Han, "Interference and Coverage Analysis for Indoor Terahertz Wireless Local Area Networks", in *Proc. of IEEE GLOBECOM Workshop on Terahertz Communications*, Waikoloa, US, December 2019.
 
 ## Book Chapters
+- **Y. Wu**, and C. Han, “Waveform and Modulation Design of Terahertz Communications“, Fundamentals of 6G Communications and Networking, Springer, Cham, 2024. [https://doi.org/10.1007/978-3-031-37920-8_7](https://doi.org/10.1007/978-3-031-37920-8_7) -->
+
+
   
 <!-- Talks
 ======
@@ -66,18 +86,4 @@ Publications
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
-  
-Academic Service and Activities
-======
-* Reviewer
-  * IEEE Wireless Communications Magazine
-  * IEEE Network Magazine
-  * IEEE Communications Standards Magazine
-  * IEEE Transactions on Wireless Communications
-  * IEEE Transactions on Communications
-  * IEEE Journal of Selected Topics in Signal Processing
-  * IEEE Transactions on Vehicular Technology
-  * IEEE Wireless Communications Letters
-  * IEEE Communications Letters
-* Presentations
-  * ICC 2022, GLOBECOM 2021, VTC-Spring 2021
+
