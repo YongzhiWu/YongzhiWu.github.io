@@ -11,7 +11,7 @@ redirect_from:
 
 ## Education
 * B.S. in Electronic Information Engineering, Huazhong University of Science and Technology, 2015-2019
-* Ph.D in Information and Communication Engineering, Shanghai Jiao Tong University, 2019-2024(expected)
+* Ph.D in Information and Communication Engineering, Shanghai Jiao Tong University, 2019-2024
 
 ## Selected Honors & Awards
 * National Scholarship for PhD Students, 2023
@@ -29,7 +29,7 @@ redirect_from:
   * IEEE Wireless Communications Letters
   * IEEE Communications Letters
 * Presentations
-  * ICC 2022, GLOBECOM 2021, VTC-Spring 2021
+  * ICC 2022 & 2024, GLOBECOM 2021
   
 <!-- Skills
 ======
