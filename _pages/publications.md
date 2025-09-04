@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Journal Publications
-- **Y. Wu**, M. Li, C. Han, and M. Tao, "Time-Frequency-Space Transmit Design and Signal Processing for Terahertz Integrated Sensing and Communication", *IEEE Transactions on Communications*, to appear, Aug. 2025.
+- **Y. Wu**, M. Li, C. Han, and M. Tao, "Time-Frequency-Space Transmit Design and Signal Processing for Terahertz Integrated Sensing and Communication", *IEEE Transactions on Communications*, early access, Aug. 2025. [[*paper*](https://ieeexplore.ieee.org/document/11146856)]
 - **Y. Wu**, C. Han, and Z. Chen, "DFT-Spread Orthogonal Time Frequency Space System with Superimposed Pilots for Terahertz Integrated Sensing and Communication", *IEEE Transactions on Wireless Communications*, vol. 22, no. 11, pp. 7361-7376, Nov. 2023. [[*paper*](https://ieeexplore.ieee.org/document/10061469)]
 - C. Han, **Y. Wu**\*, Z. Chen, Y. Chen, and G. Wang, "THz ISAC: A Physical-Layer Perspective of Terahertz Integrated Sensing and Communication", *IEEE Communications Magazine*, vol. 62, no. 2, pp. 102-108, Feb. 2024. [[*paper*](https://ieeexplore.ieee.org/document/10439221)] (\* indicates corresponding author)
 - **Y. Wu**, F. Lemic, C. Han, and Z. Chen, "Sensing Integrated DFT-Spread OFDM Waveform and Deep Learning-powered Receiver Design for Terahertz Integrated Sensing and Communication Systems", *IEEE Transactions on Communications*, vol. 71, no. 1, pp. 595-610, Jan. 2023. [[*paper*](https://ieeexplore.ieee.org/document/9967989)]
